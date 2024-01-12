@@ -10,3 +10,4 @@ wahrnehmen
 Handbewegungen auf dem Textil.
 4) Bei bestimmten Handbewegungen die bestimmten Display Anzeigen.
 5) On/Off funktion
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
